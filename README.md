@@ -12,7 +12,6 @@ I'm a passionate Full Stack Web3 developer specializing in Solana blockchain dev
 - 🌱 I'm exploring advanced Rust programming and Anchor framework
 - 👯 I'm looking to collaborate on innovative Web3 and blockchain projects
 - 💬 Ask me about Solana, Rust, Web3 development, or mobile app development
-- 📫 How to reach me: **sehrawataditya22@gmail.com**
 - ⚡ Fun fact: I can build both your mobile app and the blockchain that powers it!
 
 ## 🛠️ Tech Stack
