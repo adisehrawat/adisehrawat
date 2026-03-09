@@ -1,0 +1,31 @@
+<svg width="900" height="110" viewBox="0 0 900 110" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="100%" style="stop-color:#161b22"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#CE422B"/>
+      <stop offset="50%" style="stop-color:#F07733"/>
+      <stop offset="100%" style="stop-color:#CE422B"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="110" rx="8" fill="url(#bg)"/>
+  <rect width="900" height="110" rx="8" fill="none" stroke="#30363d" stroke-width="1"/>
+
+  <!-- Top colored line -->
+  <rect x="0" y="0" width="900" height="3" rx="2" fill="url(#accent)"/>
+
+  <!-- Terminal prompt lines -->
+  <text x="28" y="35" font-family="'Courier New', Courier, monospace" font-size="13" fill="#8b949e">  <tspan fill="#6e7681">   </tspan><tspan fill="#F07733">Compiling</tspan><tspan fill="#8b949e"> aditya-sehrawat v22.0.0 (/home/adi/projects)</tspan></text>
+  <text x="28" y="57" font-family="'Courier New', Courier, monospace" font-size="13">
+    <tspan fill="#6e7681">    </tspan><tspan fill="#7ee787">Finished</tspan><tspan fill="#8b949e"> </tspan><tspan fill="#a5d6ff">release [optimized]</tspan><tspan fill="#8b949e"> target(s) in 0.1s</tspan>
+  </text>
+  <text x="28" y="79" font-family="'Courier New', Courier, monospace" font-size="13">
+    <tspan fill="#6e7681">     </tspan><tspan fill="#79c0ff">Running</tspan><tspan fill="#8b949e"> `./aditya-sehrawat </tspan><tspan fill="#f2cc60">--open-to-work</tspan><tspan fill="#8b949e"> --hire-me`</tspan>
+  </text>
+
+  <!-- Bottom line -->
+  <rect x="0" y="107" width="900" height="3" rx="2" fill="url(#accent)"/>
+</svg>

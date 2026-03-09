@@ -1,0 +1,60 @@
+<svg width="900" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="100%" style="stop-color:#161b22"/>
+    </linearGradient>
+    <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#1a2332"/>
+      <stop offset="100%" style="stop-color:#0d1117"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="200" rx="8" fill="url(#bg)"/>
+  <rect width="900" height="200" rx="8" fill="none" stroke="#30363d" stroke-width="1"/>
+  <rect width="900" height="38" rx="8" fill="url(#headerGrad)"/>
+  <rect y="30" width="900" height="8" fill="url(#headerGrad)"/>
+  <rect x="0" y="0" width="4" height="200" rx="2" fill="#f2cc60"/>
+
+  <circle cx="22" cy="19" r="6" fill="#ff5f57"/>
+  <circle cx="42" cy="19" r="6" fill="#febc2e"/>
+  <circle cx="62" cy="19" r="6" fill="#28c840"/>
+  <text x="88" y="24" font-family="'Courier New', Courier, monospace" font-size="14" fill="#f2cc60" font-weight="bold">[workspace]</text>
+
+  <!-- Persist Ventures -->
+  <text x="28" y="60" font-family="'Courier New', Courier, monospace" font-size="11" fill="#3d4f6b"># ── Persist Ventures (Dec 2025 – present) · Remote · Los Angeles ─────────────</text>
+  <text x="28" y="78" font-family="'Courier New', Courier, monospace" font-size="13" fill="#79c0ff">members</text>
+  <text x="100" y="78" font-family="'Courier New', Courier, monospace" font-size="13" fill="#6e7681"> = </text>
+  <text x="124" y="78" font-family="'Courier New', Courier, monospace" font-size="13" fill="#7ee787">[</text>
+  <text x="140" y="78" font-family="'Courier New', Courier, monospace" font-size="13" fill="#a5d6ff">"token-launchpad"</text>
+  <text x="310" y="78" font-family="'Courier New', Courier, monospace" font-size="13" fill="#6e7681">, </text>
+  <text x="326" y="78" font-family="'Courier New', Courier, monospace" font-size="13" fill="#a5d6ff">"amm-protocol"</text>
+  <text x="480" y="78" font-family="'Courier New', Courier, monospace" font-size="13" fill="#6e7681">, </text>
+  <text x="496" y="78" font-family="'Courier New', Courier, monospace" font-size="13" fill="#a5d6ff">"tx-indexer"</text>
+  <text x="640" y="78" font-family="'Courier New', Courier, monospace" font-size="13" fill="#6e7681">,</text>
+  <text x="656" y="78" font-family="'Courier New', Courier, monospace" font-size="13" fill="#7ee787">]</text>
+
+  <text x="140" y="96" font-family="'Courier New', Courier, monospace" font-size="11" fill="#3d4f6b"># vesting · AMM · Helius gRPC indexer · Kafka conditional-sell · WebSocket feeds</text>
+
+  <!-- MEDxAI -->
+  <text x="28" y="124" font-family="'Courier New', Courier, monospace" font-size="11" fill="#3d4f6b"># ── MEDxAI Innovations (Apr 2024 – Aug 2024) · Chennai, India ─────────────────</text>
+  <text x="28" y="142" font-family="'Courier New', Courier, monospace" font-size="13" fill="#79c0ff">members</text>
+  <text x="100" y="142" font-family="'Courier New', Courier, monospace" font-size="13" fill="#6e7681"> = </text>
+  <text x="124" y="142" font-family="'Courier New', Courier, monospace" font-size="13" fill="#7ee787">[</text>
+  <text x="140" y="142" font-family="'Courier New', Courier, monospace" font-size="13" fill="#a5d6ff">"mental-health-app"</text>
+  <text x="330" y="142" font-family="'Courier New', Courier, monospace" font-size="13" fill="#6e7681">, </text>
+  <text x="346" y="142" font-family="'Courier New', Courier, monospace" font-size="13" fill="#a5d6ff">"burnout-analysis"</text>
+  <text x="530" y="142" font-family="'Courier New', Courier, monospace" font-size="13" fill="#6e7681">, </text>
+  <text x="546" y="142" font-family="'Courier New', Courier, monospace" font-size="13" fill="#a5d6ff">"component-libs"</text>
+  <text x="710" y="142" font-family="'Courier New', Courier, monospace" font-size="13" fill="#7ee787">]</text>
+
+  <!-- IBM Cert -->
+  <text x="28" y="170" font-family="'Courier New', Courier, monospace" font-size="11" fill="#3d4f6b"># ── Certifications ──────────────────────────────────────────────────────────────</text>
+  <text x="28" y="188" font-family="'Courier New', Courier, monospace" font-size="13" fill="#79c0ff">blockchain_cert</text>
+  <text x="168" y="188" font-family="'Courier New', Courier, monospace" font-size="13" fill="#6e7681"> = </text>
+  <text x="192" y="188" font-family="'Courier New', Courier, monospace" font-size="13" fill="#f2cc60">{ provider = </text>
+  <text x="315" y="188" font-family="'Courier New', Courier, monospace" font-size="13" fill="#a5d6ff">"IBM"</text>
+  <text x="355" y="188" font-family="'Courier New', Courier, monospace" font-size="13" fill="#f2cc60">, status = </text>
+  <text x="447" y="188" font-family="'Courier New', Courier, monospace" font-size="13" fill="#7ee787">"certified"</text>
+  <text x="540" y="188" font-family="'Courier New', Courier, monospace" font-size="13" fill="#f2cc60"> }</text>
+</svg>

@@ -1,0 +1,54 @@
+<svg width="900" height="175" viewBox="0 0 900 175" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="100%" style="stop-color:#161b22"/>
+    </linearGradient>
+    <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#1a2332"/>
+      <stop offset="100%" style="stop-color:#0d1117"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="175" rx="8" fill="url(#bg)"/>
+  <rect width="900" height="175" rx="8" fill="none" stroke="#30363d" stroke-width="1"/>
+
+  <!-- Header bar -->
+  <rect width="900" height="38" rx="8" fill="url(#headerGrad)"/>
+  <rect y="30" width="900" height="8" fill="url(#headerGrad)"/>
+  <rect x="0" y="0" width="4" height="175" rx="2" fill="#CE422B"/>
+
+  <!-- Header dot decorations -->
+  <circle cx="22" cy="19" r="6" fill="#ff5f57"/>
+  <circle cx="42" cy="19" r="6" fill="#febc2e"/>
+  <circle cx="62" cy="19" r="6" fill="#28c840"/>
+
+  <!-- Section title -->
+  <text x="88" y="24" font-family="'Courier New', Courier, monospace" font-size="14" fill="#F07733" font-weight="bold">[profile]</text>
+
+  <!-- Content lines -->
+  <!-- location -->
+  <text x="28" y="65" font-family="'Courier New', Courier, monospace" font-size="13" fill="#6e7681">location</text>
+  <text x="140" y="65" font-family="'Courier New', Courier, monospace" font-size="13" fill="#6e7681"> = </text>
+  <text x="168" y="65" font-family="'Courier New', Courier, monospace" font-size="13" fill="#a5d6ff">"Panipat, Haryana, India"</text>
+
+  <!-- institution -->
+  <text x="28" y="88" font-family="'Courier New', Courier, monospace" font-size="13" fill="#6e7681">institution</text>
+  <text x="140" y="88" font-family="'Courier New', Courier, monospace" font-size="13" fill="#6e7681"> = </text>
+  <text x="168" y="88" font-family="'Courier New', Courier, monospace" font-size="13" fill="#a5d6ff">"VIT Chennai · B.Tech CSE · CGPA 8.91"</text>
+
+  <!-- currently -->
+  <text x="28" y="111" font-family="'Courier New', Courier, monospace" font-size="13" fill="#6e7681">currently</text>
+  <text x="140" y="111" font-family="'Courier New', Courier, monospace" font-size="13" fill="#6e7681"> = </text>
+  <text x="168" y="111" font-family="'Courier New', Courier, monospace" font-size="13" fill="#7ee787">"Rust Backend Dev @ Persist Ventures · Los Angeles"</text>
+
+  <!-- status -->
+  <text x="28" y="134" font-family="'Courier New', Courier, monospace" font-size="13" fill="#6e7681">status</text>
+  <text x="140" y="134" font-family="'Courier New', Courier, monospace" font-size="13" fill="#6e7681"> = </text>
+  <text x="168" y="134" font-family="'Courier New', Courier, monospace" font-size="13" fill="#a5d6ff">"building on-chain programs &amp; high-throughput indexing pipelines"</text>
+
+  <!-- open_to -->
+  <text x="28" y="157" font-family="'Courier New', Courier, monospace" font-size="13" fill="#6e7681">open_to</text>
+  <text x="140" y="157" font-family="'Courier New', Courier, monospace" font-size="13" fill="#6e7681"> = </text>
+  <text x="168" y="157" font-family="'Courier New', Courier, monospace" font-size="13" fill="#f2cc60">["blockchain infra", "systems engineering", "Web3 backend roles"]</text>
+</svg>

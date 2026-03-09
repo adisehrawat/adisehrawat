@@ -1,0 +1,68 @@
+<svg width="900" height="340" viewBox="0 0 900 340" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="100%" style="stop-color:#161b22"/>
+    </linearGradient>
+    <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#1a2332"/>
+      <stop offset="100%" style="stop-color:#0d1117"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="340" rx="8" fill="url(#bg)"/>
+  <rect width="900" height="340" rx="8" fill="none" stroke="#30363d" stroke-width="1"/>
+  <rect width="900" height="38" rx="8" fill="url(#headerGrad)"/>
+  <rect y="30" width="900" height="8" fill="url(#headerGrad)"/>
+  <rect x="0" y="0" width="4" height="340" rx="2" fill="#7ee787"/>
+
+  <circle cx="22" cy="19" r="6" fill="#ff5f57"/>
+  <circle cx="42" cy="19" r="6" fill="#febc2e"/>
+  <circle cx="62" cy="19" r="6" fill="#28c840"/>
+  <text x="88" y="24" font-family="'Courier New', Courier, monospace" font-size="14" fill="#7ee787" font-weight="bold">[[bin]]  # projects</text>
+
+  <!-- Solify -->
+  <text x="28" y="60" font-family="'Courier New', Courier, monospace" font-size="12" fill="#3d4f6b"># ── Solify ─────────────────────────────────────────────────────────────────────</text>
+  <text x="28" y="78" font-family="'Courier New', Courier, monospace" font-size="13" fill="#79c0ff">name</text>
+  <text x="90" y="78" font-family="'Courier New', Courier, monospace" font-size="13" fill="#6e7681">  = </text>
+  <text x="114" y="78" font-family="'Courier New', Courier, monospace" font-size="13" fill="#f2cc60">"solify"</text>
+  <text x="28" y="95" font-family="'Courier New', Courier, monospace" font-size="13" fill="#79c0ff">about</text>
+  <text x="90" y="95" font-family="'Courier New', Courier, monospace" font-size="13" fill="#6e7681"> = </text>
+  <text x="114" y="95" font-family="'Courier New', Courier, monospace" font-size="13" fill="#8b949e">"Rust CLI · auto-generates Anchor test suites · ratatui TUI · IDL parser"</text>
+  <text x="28" y="112" font-family="'Courier New', Courier, monospace" font-size="13" fill="#79c0ff">stack</text>
+  <text x="90" y="112" font-family="'Courier New', Courier, monospace" font-size="13" fill="#6e7681"> = </text>
+  <text x="114" y="112" font-family="'Courier New', Courier, monospace" font-size="13" fill="#7ee787">["rust", "anchor", "ratatui", "solana-cli"]</text>
+
+  <!-- VOIX -->
+  <text x="28" y="136" font-family="'Courier New', Courier, monospace" font-size="12" fill="#3d4f6b"># ── VOIX ───────────────────────────────────────────────────────────────────────</text>
+  <text x="28" y="154" font-family="'Courier New', Courier, monospace" font-size="13" fill="#79c0ff">name</text>
+  <text x="90" y="154" font-family="'Courier New', Courier, monospace" font-size="13" fill="#6e7681">  = </text>
+  <text x="114" y="154" font-family="'Courier New', Courier, monospace" font-size="13" fill="#f2cc60">"voix"</text>
+  <text x="28" y="171" font-family="'Courier New', Courier, monospace" font-size="13" fill="#79c0ff">about</text>
+  <text x="90" y="171" font-family="'Courier New', Courier, monospace" font-size="13" fill="#6e7681"> = </text>
+  <text x="114" y="171" font-family="'Courier New', Courier, monospace" font-size="13" fill="#8b949e">"Web3 social platform · decentralised profiles · wallet auth · React Native"</text>
+  <text x="28" y="188" font-family="'Courier New', Courier, monospace" font-size="13" fill="#79c0ff">stack</text>
+  <text x="90" y="188" font-family="'Courier New', Courier, monospace" font-size="13" fill="#6e7681"> = </text>
+  <text x="114" y="188" font-family="'Courier New', Courier, monospace" font-size="13" fill="#7ee787">["rust", "anchor", "react-native", "nodejs", "solana"]</text>
+
+  <!-- Solmine -->
+  <text x="28" y="212" font-family="'Courier New', Courier, monospace" font-size="12" fill="#3d4f6b"># ── Solmine ────────────────────────────────────────────────────────────────────</text>
+  <text x="28" y="230" font-family="'Courier New', Courier, monospace" font-size="13" fill="#79c0ff">name</text>
+  <text x="90" y="230" font-family="'Courier New', Courier, monospace" font-size="13" fill="#6e7681">  = </text>
+  <text x="114" y="230" font-family="'Courier New', Courier, monospace" font-size="13" fill="#f2cc60">"solmine"</text>
+  <text x="28" y="247" font-family="'Courier New', Courier, monospace" font-size="13" fill="#79c0ff">about</text>
+  <text x="90" y="247" font-family="'Courier New', Courier, monospace" font-size="13" fill="#6e7681"> = </text>
+  <text x="114" y="247" font-family="'Courier New', Courier, monospace" font-size="13" fill="#8b949e">"Goal-based savings dApp · PDA accounts · SOL deposits/withdrawals/goals"</text>
+  <text x="28" y="264" font-family="'Courier New', Courier, monospace" font-size="13" fill="#79c0ff">stack</text>
+  <text x="90" y="264" font-family="'Courier New', Courier, monospace" font-size="13" fill="#6e7681"> = </text>
+  <text x="114" y="264" font-family="'Courier New', Courier, monospace" font-size="13" fill="#7ee787">["rust", "anchor", "react", "typescript", "tailwind"]</text>
+
+  <!-- ShellAdi -->
+  <text x="28" y="288" font-family="'Courier New', Courier, monospace" font-size="12" fill="#3d4f6b"># ── ShellAdi ────────────────────────────────────────────────────────────────</text>
+  <text x="28" y="306" font-family="'Courier New', Courier, monospace" font-size="13" fill="#79c0ff">name</text>
+  <text x="90" y="306" font-family="'Courier New', Courier, monospace" font-size="13" fill="#6e7681">  = </text>
+  <text x="114" y="306" font-family="'Courier New', Courier, monospace" font-size="13" fill="#f2cc60">"shelladi"</text>
+  <text x="28" y="323" font-family="'Courier New', Courier, monospace" font-size="13" fill="#79c0ff">about</text>
+  <text x="90" y="323" font-family="'Courier New', Courier, monospace" font-size="13" fill="#6e7681"> = </text>
+  <text x="114" y="323" font-family="'Courier New', Courier, monospace" font-size="13" fill="#8b949e">"Custom Rust shell · command history · builtins · clap + rustyline"</text>
+</svg>
