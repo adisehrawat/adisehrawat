@@ -1,6 +1,6 @@
 <div align="center">
 
-![banner](https://raw.githubusercontent.com/adisehrawat/adisehrawat/main/assets/banner.svg)
+![banner](https://github.com/adisehrawat/adisehrawat/blob/main/main/assets/banner.svg)
 
 </div>
 
@@ -20,7 +20,7 @@
 
 <div align="center">
 
-![profile](https://raw.githubusercontent.com/adisehrawat/adisehrawat/main/assets/profile.svg)
+![profile](https://github.com/adisehrawat/adisehrawat/blob/main/main/assets/profile.svg)
 
 </div>
 
@@ -28,7 +28,7 @@
 
 <div align="center">
 
-![deps](https://raw.githubusercontent.com/adisehrawat/adisehrawat/main/assets/deps.svg)
+![deps](https://github.com/adisehrawat/adisehrawat/blob/main/main/assets/deps.svg)
 
 </div>
 
@@ -55,7 +55,7 @@ websocket-apis          = ["axum", "live-blockchain-updates", "trading-feeds"]
 
 <div align="center">
 
-![projects](https://raw.githubusercontent.com/adisehrawat/adisehrawat/main/assets/projects.svg)
+![projects](https://github.com/adisehrawat/adisehrawat/blob/main/main/assets/projects.svg)
 
 </div>
 
@@ -63,18 +63,12 @@ websocket-apis          = ["axum", "live-blockchain-updates", "trading-feeds"]
 
 <div align="center">
 
-![workspace](https://raw.githubusercontent.com/adisehrawat/adisehrawat/main/assets/workspace.svg)
+![workspace](https://github.com/adisehrawat/adisehrawat/blob/main/main/assets/workspace.svg)
 
 </div>
 
 <br/>
 
-<div align="center">
-
-| ![stats](https://github-readme-stats.vercel.app/api?username=adisehrawat&show_icons=true&theme=github_dark&hide_border=true&title_color=F07733&icon_color=CE422B&text_color=8b949e&bg_color=0d1117) | ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adisehrawat&layout=compact&theme=github_dark&hide_border=true&title_color=F07733&text_color=8b949e&bg_color=0d1117) |
-|---|---|
-
-</div>
 
 <div align="center">
 
@@ -86,6 +80,6 @@ websocket-apis          = ["axum", "live-blockchain-updates", "trading-feeds"]
 
 <div align="center">
 
-![footer](https://raw.githubusercontent.com/adisehrawat/adisehrawat/main/assets/footer.svg)
+![footer](https://github.com/adisehrawat/adisehrawat/blob/main/main/assets/footer.svg)
 
 </div>
