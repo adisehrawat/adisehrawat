@@ -23,7 +23,7 @@
     <tspan fill="#6e7681">    </tspan><tspan fill="#7ee787">Finished</tspan><tspan fill="#8b949e"> </tspan><tspan fill="#a5d6ff">release [optimized]</tspan><tspan fill="#8b949e"> target(s) in 0.1s</tspan>
   </text>
   <text x="28" y="79" font-family="'Courier New', Courier, monospace" font-size="13">
-    <tspan fill="#6e7681">     </tspan><tspan fill="#79c0ff">Running</tspan><tspan fill="#8b949e"> `./aditya-sehrawat </tspan><tspan fill="#f2cc60">--open-to-work</tspan><tspan fill="#8b949e"> --hire-me`</tspan>
+    <tspan fill="#6e7681">     </tspan><tspan fill="#79c0ff">Running</tspan><tspan fill="#8b949e"> `./aditya-sehrawat`</tspan>
   </text>
 
   <!-- Bottom line -->

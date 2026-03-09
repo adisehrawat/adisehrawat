@@ -32,6 +32,9 @@
   <rect width="900" height="200" fill="url(#bg)"/>
   <rect width="900" height="200" fill="url(#grid)" opacity="0.6"/>
 
+  <!-- Outer border -->
+  <rect x="1" y="1" width="898" height="198" rx="8" fill="none" stroke="url(#accent)" stroke-width="2"/>
+
   <!-- Top accent bar -->
   <rect x="0" y="0" width="900" height="3" fill="url(#accent)"/>
 
@@ -63,12 +66,12 @@
   <!-- Main title -->
   <text x="450" y="85" font-family="'Courier New', Courier, monospace" font-size="13" fill="#6e7681" text-anchor="middle" letter-spacing="4">[PACKAGE]</text>
   <text x="450" y="132" font-family="'Courier New', Courier, monospace" font-size="36" fill="url(#titleGrad)" text-anchor="middle" font-weight="bold" filter="url(#subtleglow)">aditya-sehrawat</text>
-  <text x="450" y="158" font-family="'Courier New', Courier, monospace" font-size="13" fill="#8b949e" text-anchor="middle">Rust &amp; Solana Backend Engineer  ·  Systems Builder  ·  Web3 Architect</text>
+  <text x="450" y="155" font-family="'Courier New', Courier, monospace" font-size="13" fill="#8b949e" text-anchor="middle">Rust &amp; Solana Backend Engineer  ·  Systems Builder  ·  Web3 Architect</text>
 
-  <!-- Version badge -->
-  <rect x="370" y="168" width="160" height="22" rx="11" fill="#CE422B" opacity="0.2"/>
-  <rect x="370" y="168" width="160" height="22" rx="11" fill="none" stroke="#CE422B" stroke-width="1" opacity="0.5"/>
-  <text x="450" y="183" font-family="'Courier New', Courier, monospace" font-size="11" fill="#F07733" text-anchor="middle">version = "22.0.0" · edition = "2026"</text>
+  <!-- Version badge full width -->
+  <rect x="1" y="172" width="898" height="26" fill="#CE422B" opacity="0.15"/>
+  <rect x="1" y="172" width="898" height="26" fill="none" stroke="#CE422B" stroke-width="1" opacity="0.4"/>
+  <text x="450" y="189" font-family="'Courier New', Courier, monospace" font-size="12" fill="#F07733" text-anchor="middle" letter-spacing="2">version = "22.0.0"    edition = "2026"</text>
 
   <!-- Bottom accent bar -->
   <rect x="0" y="197" width="900" height="3" fill="url(#accent)"/>
