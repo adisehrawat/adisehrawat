@@ -34,24 +34,6 @@
 
 <br/>
 
-```toml
-[features]
-default = [
-  "solana-launchpad",
-  "amm-protocol",
-  "real-time-indexing",
-  "event-driven-pipelines",
-  "websocket-apis",
-]
-
-solana-launchpad        = ["anchor-lang", "spl-token", "vesting-schedules", "permissioned-swaps"]
-amm-protocol            = ["liquidity-pools", "swap-mechanics", "price-discovery"]
-real-time-indexing      = ["helius-grpc", "postgresql", "redis", "sub-second-latency"]
-event-driven-pipelines  = ["kafka", "conditional-sells", "market-triggers"]
-websocket-apis          = ["axum", "live-blockchain-updates", "trading-feeds"]
-```
-
-<br/>
 
 <div align="center">
 

@@ -32,23 +32,18 @@
   <text x="140" y="65" font-family="'Courier New', Courier, monospace" font-size="13" fill="#6e7681"> = </text>
   <text x="168" y="65" font-family="'Courier New', Courier, monospace" font-size="13" fill="#a5d6ff">"Panipat, Haryana, India"</text>
 
-  <!-- institution -->
-  <text x="28" y="88" font-family="'Courier New', Courier, monospace" font-size="13" fill="#6e7681">institution</text>
-  <text x="140" y="88" font-family="'Courier New', Courier, monospace" font-size="13" fill="#6e7681"> = </text>
-  <text x="168" y="88" font-family="'Courier New', Courier, monospace" font-size="13" fill="#a5d6ff">"VIT Chennai · B.Tech CSE · CGPA 8.91"</text>
-
   <!-- currently -->
-  <text x="28" y="111" font-family="'Courier New', Courier, monospace" font-size="13" fill="#6e7681">currently</text>
-  <text x="140" y="111" font-family="'Courier New', Courier, monospace" font-size="13" fill="#6e7681"> = </text>
-  <text x="168" y="111" font-family="'Courier New', Courier, monospace" font-size="13" fill="#7ee787">"Rust Backend Dev @ Persist Ventures · Los Angeles"</text>
+  <text x="28" y="88" font-family="'Courier New', Courier, monospace" font-size="13" fill="#6e7681">currently</text>
+  <text x="140" y="88" font-family="'Courier New', Courier, monospace" font-size="13" fill="#6e7681"> = </text>
+  <text x="168" y="88" font-family="'Courier New', Courier, monospace" font-size="13" fill="#7ee787">"Rust Backend Dev @ Persist Ventures · Los Angeles"</text>
 
   <!-- status -->
-  <text x="28" y="134" font-family="'Courier New', Courier, monospace" font-size="13" fill="#6e7681">status</text>
-  <text x="140" y="134" font-family="'Courier New', Courier, monospace" font-size="13" fill="#6e7681"> = </text>
-  <text x="168" y="134" font-family="'Courier New', Courier, monospace" font-size="13" fill="#a5d6ff">"building on-chain programs &amp; high-throughput indexing pipelines"</text>
+  <text x="28" y="111" font-family="'Courier New', Courier, monospace" font-size="13" fill="#6e7681">status</text>
+  <text x="140" y="111" font-family="'Courier New', Courier, monospace" font-size="13" fill="#6e7681"> = </text>
+  <text x="168" y="111" font-family="'Courier New', Courier, monospace" font-size="13" fill="#a5d6ff">"building on-chain programs &amp; high-throughput indexing pipelines"</text>
 
   <!-- open_to -->
-  <text x="28" y="157" font-family="'Courier New', Courier, monospace" font-size="13" fill="#6e7681">open_to</text>
-  <text x="140" y="157" font-family="'Courier New', Courier, monospace" font-size="13" fill="#6e7681"> = </text>
-  <text x="168" y="157" font-family="'Courier New', Courier, monospace" font-size="13" fill="#f2cc60">["blockchain infra", "systems engineering", "Web3 backend roles"]</text>
+  <text x="28" y="134" font-family="'Courier New', Courier, monospace" font-size="13" fill="#6e7681">open_to</text>
+  <text x="140" y="134" font-family="'Courier New', Courier, monospace" font-size="13" fill="#6e7681"> = </text>
+  <text x="168" y="134" font-family="'Courier New', Courier, monospace" font-size="13" fill="#f2cc60">["blockchain infra", "systems engineering", "Web3 backend roles"]</text>
 </svg>
